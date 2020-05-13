@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fofa-client", "fofa-client.csproj", "{04ABFF8A-B007-4D6F-BEF6-259DA876CEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04ABFF8A-B007-4D6F-BEF6-259DA876CEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04ABFF8A-B007-4D6F-BEF6-259DA876CEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04ABFF8A-B007-4D6F-BEF6-259DA876CEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04ABFF8A-B007-4D6F-BEF6-259DA876CEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3743B43D-BA88-4DA1-AC05-83E7799A358E}
+	EndGlobalSection
+EndGlobal
