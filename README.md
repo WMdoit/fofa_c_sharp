@@ -36,7 +36,7 @@ python setup.py install
 Email    用户登陆 FOFA Pro 使用的 Email
 Key 前往 个人中心 查看 API Key
 ## Example
-
+```
 #-- coding: utf-8 --
 import fofa
 
@@ -51,7 +51,7 @@ if __name__ == "__main__":
         data = client.get_data(query_str,page=page,fields="ip,city")  #查询第page页数据的ip和城市
         for ip,city in data["results"]:
             print "%s,%s"%(ip,city)                                   #打印出每条数据的ip和城市
-
+```
 ### 具体使用文档见wiki
 
 # 协议
