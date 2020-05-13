@@ -14,23 +14,11 @@ windows10 + VS2019
 .Net 4.0
 
 # 获取
-## pip
-安装 FOFA SDK 之前，请先确认已经安装 pip.
-
-点击 pip documentation 了解详细的说明
+直接下载
 
 ## FOFA SDK
 ## 安装
-
-pip install fofa
-or
-
-git clone https://github.com/fofapro/fofa-py.git
-cd fofa-py   
-python setup.py install
-## 依赖
-## Library
-目前全部采用的是python内置包，可直接安装使用。
+直接下载后加入到新项目
 
 ## Email & API Key
 Email    用户登陆 FOFA Pro 使用的 Email
