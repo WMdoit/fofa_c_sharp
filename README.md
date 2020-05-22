@@ -41,21 +41,7 @@ Key 前往 个人中心 查看 API Key
             data = Unpack_data(data2);#转换成字符数组，后期split分割后foreach进行遍历
             Console.WriteLine(data2);
         }
-        
-        
-        
     }
-
-
-
-
-
-
-
-
-
-
-
 ```
 ### 具体使用文档见wiki
 
